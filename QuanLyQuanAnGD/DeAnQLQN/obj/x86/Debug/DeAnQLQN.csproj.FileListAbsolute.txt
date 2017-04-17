@@ -1,0 +1,156 @@
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.exe
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.pdb
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.Properties.Resources.resources
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.csproj.GenerateResource.Cache
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.exe
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.pdb
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.csprojResolveAssemblyReference.cache
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_dangNhap.resources
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_quanLy.resources
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.Form1.resources
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\bin\Debug\BussLayer.dll
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\bin\Debug\DataLayer.dll
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\bin\Debug\BussLayer.pdb
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\bin\Debug\DataLayer.pdb
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_KetNoi.resources
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.exe
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.pdb
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.csprojResolveAssemblyReference.cache
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.Form1.resources
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_banTiec.resources
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_dangNhap.resources
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_KetNoi.resources
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_quanLy.resources
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.Properties.Resources.resources
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.csproj.GenerateResource.Cache
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.exe
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.pdb
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\bin\Debug\BussLayer.dll
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\bin\Debug\DataLayer.dll
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\bin\Debug\BussLayer.pdb
+C:\Users\Tri\Desktop\DeAnQLQN\DeAnQLQN\bin\Debug\DataLayer.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.exe
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.exe
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\bin\Debug\BussLayer.dll
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\bin\Debug\DataLayer.dll
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\bin\Debug\BussLayer.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\bin\Debug\DataLayer.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.csprojResolveAssemblyReference.cache
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.Form1.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_dangNhap.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_KetNoi.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_quanLy.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_ThucDon.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.Properties.Resources.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.csproj.GenerateResource.Cache
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\bin\Debug\DTOLayer.dll
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\bin\Debug\DTOLayer.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_nhanvien.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.exe.config
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_banTiec.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.reportprinthoadon.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\RdlCompile.cache
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\RdlCompile.compiled
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_kho.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocao.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocaochitiet.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_doimatkhau.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_nguyenlieu.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocao_nhapxuat.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocao_chitietNX.resources
+E:\MonC#\DeAnQLQN\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.sosanh.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.exe.config
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.exe
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.pdb
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.csprojResolveAssemblyReference.cache
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.Form1.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_banTiec.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocao.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocaochitiet.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocao_chitietNX.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocao_nhapxuat.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_dangNhap.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_doimatkhau.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_KetNoi.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_kho.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_nguyenlieu.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_nhanvien.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_quanLy.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_ThucDon.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.Properties.Resources.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.reportprinthoadon.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.sosanh.resources
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.csproj.GenerateResource.Cache
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\RdlCompile.cache
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.exe
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.pdb
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\bin\Debug\BussLayer.dll
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\bin\Debug\DTOLayer.dll
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\bin\Debug\DataLayer.dll
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\bin\Debug\BussLayer.pdb
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\bin\Debug\DTOLayer.pdb
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DeAnQLQN\bin\Debug\DataLayer.pdb
+E:\baitaplon\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.exe.config
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.exe
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.pdb
+E:\baitaplon\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.exe
+E:\baitaplon\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.pdb
+E:\baitaplon\DeAnQLQN\DeAnQLQN\bin\Debug\BussLayer.dll
+E:\baitaplon\DeAnQLQN\DeAnQLQN\bin\Debug\DTOLayer.dll
+E:\baitaplon\DeAnQLQN\DeAnQLQN\bin\Debug\DataLayer.dll
+E:\baitaplon\DeAnQLQN\DeAnQLQN\bin\Debug\BussLayer.pdb
+E:\baitaplon\DeAnQLQN\DeAnQLQN\bin\Debug\DTOLayer.pdb
+E:\baitaplon\DeAnQLQN\DeAnQLQN\bin\Debug\DataLayer.pdb
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.csprojResolveAssemblyReference.cache
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.Form1.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_banTiec.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocao.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocaochitiet.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocao_chitietNX.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocao_nhapxuat.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_dangNhap.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_doimatkhau.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_KetNoi.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_kho.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_nguyenlieu.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_nhanvien.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_quanLy.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_ThucDon.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.Properties.Resources.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.reportprinthoadon.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.sosanh.resources
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.csproj.GenerateResource.Cache
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\RdlCompile.cache
+E:\baitaplon\DeAnQLQN\DeAnQLQN\obj\x86\Debug\RdlCompile.compiled
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.exe.config
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.exe
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.pdb
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.csprojResolveAssemblyReference.cache
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.Form1.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_banTiec.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocao.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocaochitiet.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocao_chitietNX.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_baocao_nhapxuat.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_dangNhap.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_kho.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_nguyenlieu.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_nhanvien.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_quanLy.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.frm_ThucDon.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.Properties.Resources.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.reportprinthoadon.resources
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\DeAnQLQN.csproj.GenerateResource.Cache
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\RdlCompile.cache
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\obj\x86\Debug\RdlCompile.compiled
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.exe
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\bin\Debug\DeAnQLQN.pdb
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\bin\Debug\BussLayer.dll
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\bin\Debug\DTOLayer.dll
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\bin\Debug\DataLayer.dll
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\bin\Debug\BussLayer.pdb
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\bin\Debug\DTOLayer.pdb
+E:\baitaplon\quán ăn\hoànchinh\DeAnQLQN\DeAnQLQN\bin\Debug\DataLayer.pdb
