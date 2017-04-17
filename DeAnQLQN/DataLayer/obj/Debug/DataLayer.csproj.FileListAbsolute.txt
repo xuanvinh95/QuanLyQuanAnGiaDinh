@@ -1,0 +1,25 @@
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DataLayer\obj\Debug\DataLayer.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\DataLayer\bin\Debug\DataLayer.dll
+E:\MonC#\DeAnQLQN\DeAnQLQN\DataLayer\bin\Debug\DataLayer.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\MonC#\DeAnQLQN\DeAnQLQN\DataLayer\obj\Debug\DataLayer.dll
+E:\MonC#\DeAnQLQN\DeAnQLQN\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DataLayer\obj\Debug\DataLayer.pdb
+E:\baitaplon\DeAnQLQN\DataLayer\bin\Debug\DataLayer.dll
+E:\baitaplon\DeAnQLQN\DataLayer\bin\Debug\DataLayer.pdb
+E:\baitaplon\DeAnQLQN\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\baitaplon\DeAnQLQN\DataLayer\obj\Debug\DataLayer.dll
+E:\baitaplon\DeAnQLQN\DataLayer\obj\Debug\DataLayer.pdb
+E:\baitaplon\quán ăn\DeAnQLQN\DataLayer\bin\Debug\DataLayer.dll
+E:\baitaplon\quán ăn\DeAnQLQN\DataLayer\bin\Debug\DataLayer.pdb
+E:\baitaplon\quán ăn\DeAnQLQN\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\baitaplon\quán ăn\DeAnQLQN\DataLayer\obj\Debug\DataLayer.dll
+E:\baitaplon\quán ăn\DeAnQLQN\DataLayer\obj\Debug\DataLayer.pdb

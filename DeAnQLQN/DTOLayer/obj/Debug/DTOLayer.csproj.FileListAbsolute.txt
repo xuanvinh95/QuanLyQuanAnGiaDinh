@@ -1,0 +1,21 @@
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DTOLayer\bin\Debug\DTOLayer.dll
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DTOLayer\bin\Debug\DTOLayer.pdb
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DTOLayer\obj\Debug\DTOLayer.dll
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\DTOLayer\obj\Debug\DTOLayer.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\DTOLayer\bin\Debug\DTOLayer.dll
+E:\MonC#\DeAnQLQN\DeAnQLQN\DTOLayer\bin\Debug\DTOLayer.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\DTOLayer\obj\Debug\DTOLayer.dll
+E:\MonC#\DeAnQLQN\DeAnQLQN\DTOLayer\obj\Debug\DTOLayer.pdb
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DTOLayer\bin\Debug\DTOLayer.dll
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DTOLayer\bin\Debug\DTOLayer.pdb
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DTOLayer\obj\Debug\DTOLayer.dll
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\DTOLayer\obj\Debug\DTOLayer.pdb
+E:\baitaplon\DeAnQLQN\DTOLayer\bin\Debug\DTOLayer.dll
+E:\baitaplon\DeAnQLQN\DTOLayer\bin\Debug\DTOLayer.pdb
+E:\baitaplon\DeAnQLQN\DTOLayer\obj\Debug\DTOLayer.dll
+E:\baitaplon\DeAnQLQN\DTOLayer\obj\Debug\DTOLayer.pdb
+E:\baitaplon\quán ăn\DeAnQLQN\DTOLayer\bin\Debug\DTOLayer.dll
+E:\baitaplon\quán ăn\DeAnQLQN\DTOLayer\bin\Debug\DTOLayer.pdb
+E:\baitaplon\quán ăn\DeAnQLQN\DTOLayer\obj\Debug\DTOLayer.dll
+E:\baitaplon\quán ăn\DeAnQLQN\DTOLayer\obj\Debug\DTOLayer.pdb
+E:\baitaplon\quán ăn\DeAnQLQN\DTOLayer\obj\Debug\DTOLayer.csprojResolveAssemblyReference.cache

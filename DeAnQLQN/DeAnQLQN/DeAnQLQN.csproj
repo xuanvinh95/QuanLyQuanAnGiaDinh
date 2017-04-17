@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{56A80458-B2AF-4E1F-9669-7E94AD2929A7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DeAnQLQN</RootNamespace>
+    <AssemblyName>DeAnQLQN</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cls_Main.cs" />
+    <Compile Include="ColorTable.cs" />
+    <Compile Include="DS_inhoadon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_inhoadon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_banTiec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_banTiec.Designer.cs">
+      <DependentUpon>frm_banTiec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_baocao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_baocao.Designer.cs">
+      <DependentUpon>frm_baocao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_baocaochitiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_baocaochitiet.Designer.cs">
+      <DependentUpon>frm_baocaochitiet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_baocao_chitietNX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_baocao_chitietNX.Designer.cs">
+      <DependentUpon>frm_baocao_chitietNX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_baocao_nhapxuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_baocao_nhapxuat.Designer.cs">
+      <DependentUpon>frm_baocao_nhapxuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_dangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_dangNhap.Designer.cs">
+      <DependentUpon>frm_dangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_doimatkhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_doimatkhau.Designer.cs">
+      <DependentUpon>frm_doimatkhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_nguyenlieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_nguyenlieu.Designer.cs">
+      <DependentUpon>frm_nguyenlieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_quanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_quanLy.Designer.cs">
+      <DependentUpon>frm_quanLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThucDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThucDon.Designer.cs">
+      <DependentUpon>frm_ThucDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reportprinthoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportprinthoadon.Designer.cs">
+      <DependentUpon>reportprinthoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Xbutton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_banTiec.resx">
+      <DependentUpon>frm_banTiec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_baocao.resx">
+      <DependentUpon>frm_baocao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_baocaochitiet.resx">
+      <DependentUpon>frm_baocaochitiet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_baocao_chitietNX.resx">
+      <DependentUpon>frm_baocao_chitietNX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_baocao_nhapxuat.resx">
+      <DependentUpon>frm_baocao_nhapxuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_dangNhap.resx">
+      <DependentUpon>frm_dangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_doimatkhau.resx">
+      <DependentUpon>frm_doimatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_nguyenlieu.resx">
+      <DependentUpon>frm_nguyenlieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_quanLy.resx">
+      <DependentUpon>frm_quanLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ThucDon.resx">
+      <DependentUpon>frm_ThucDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="reportprinthoadon.resx">
+      <DependentUpon>reportprinthoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_inhoadon.rdlc" />
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DS_inhoadon.xsc">
+      <DependentUpon>DS_inhoadon.xsd</DependentUpon>
+    </None>
+    <None Include="DS_inhoadon.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_inhoadon.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_inhoadon.xss">
+      <DependentUpon>DS_inhoadon.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BussLayer\BussLayer.csproj">
+      <Project>{CB720BF4-6623-49A6-A522-AC4F012559BF}</Project>
+      <Name>BussLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTOLayer\DTOLayer.csproj">
+      <Project>{28640A21-BD8F-47C2-9A97-7CBC8BDFF6D2}</Project>
+      <Name>DTOLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

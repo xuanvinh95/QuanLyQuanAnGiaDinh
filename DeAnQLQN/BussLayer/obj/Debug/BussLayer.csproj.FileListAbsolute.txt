@@ -1,0 +1,50 @@
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\BussLayer\bin\Debug\BussLayer.dll
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\BussLayer\bin\Debug\BussLayer.pdb
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\BussLayer\bin\Debug\DataLayer.dll
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\BussLayer\bin\Debug\DataLayer.pdb
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\BussLayer\obj\Debug\BussLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\BussLayer\obj\Debug\BussLayer.dll
+C:\Users\Tri\Documents\Visual Studio 2010\Projects\DeAnQLQN\BussLayer\obj\Debug\BussLayer.pdb
+C:\Users\Tri\Desktop\DeAnQLQN\BussLayer\bin\Debug\BussLayer.dll
+C:\Users\Tri\Desktop\DeAnQLQN\BussLayer\bin\Debug\BussLayer.pdb
+C:\Users\Tri\Desktop\DeAnQLQN\BussLayer\bin\Debug\DataLayer.dll
+C:\Users\Tri\Desktop\DeAnQLQN\BussLayer\bin\Debug\DataLayer.pdb
+C:\Users\Tri\Desktop\DeAnQLQN\BussLayer\obj\Debug\BussLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tri\Desktop\DeAnQLQN\BussLayer\obj\Debug\BussLayer.dll
+C:\Users\Tri\Desktop\DeAnQLQN\BussLayer\obj\Debug\BussLayer.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\BussLayer\bin\Debug\BussLayer.dll
+E:\MonC#\DeAnQLQN\DeAnQLQN\BussLayer\bin\Debug\BussLayer.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\BussLayer\bin\Debug\DataLayer.dll
+E:\MonC#\DeAnQLQN\DeAnQLQN\BussLayer\bin\Debug\DTOLayer.dll
+E:\MonC#\DeAnQLQN\DeAnQLQN\BussLayer\bin\Debug\DataLayer.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\BussLayer\bin\Debug\DTOLayer.pdb
+E:\MonC#\DeAnQLQN\DeAnQLQN\BussLayer\obj\Debug\BussLayer.csprojResolveAssemblyReference.cache
+E:\MonC#\DeAnQLQN\DeAnQLQN\BussLayer\obj\Debug\BussLayer.dll
+E:\MonC#\DeAnQLQN\DeAnQLQN\BussLayer\obj\Debug\BussLayer.pdb
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\BussLayer\bin\Debug\BussLayer.dll
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\BussLayer\bin\Debug\BussLayer.pdb
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\BussLayer\bin\Debug\DataLayer.dll
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\BussLayer\bin\Debug\DTOLayer.dll
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\BussLayer\bin\Debug\DataLayer.pdb
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\BussLayer\bin\Debug\DTOLayer.pdb
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\BussLayer\obj\Debug\BussLayer.csprojResolveAssemblyReference.cache
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\BussLayer\obj\Debug\BussLayer.dll
+C:\Users\Tri\Downloads\Tài Liệu\HK2\C#+CSDL\DeAnQLQN\BussLayer\obj\Debug\BussLayer.pdb
+E:\baitaplon\DeAnQLQN\BussLayer\bin\Debug\BussLayer.dll
+E:\baitaplon\DeAnQLQN\BussLayer\bin\Debug\BussLayer.pdb
+E:\baitaplon\DeAnQLQN\BussLayer\bin\Debug\DataLayer.dll
+E:\baitaplon\DeAnQLQN\BussLayer\bin\Debug\DTOLayer.dll
+E:\baitaplon\DeAnQLQN\BussLayer\bin\Debug\DataLayer.pdb
+E:\baitaplon\DeAnQLQN\BussLayer\bin\Debug\DTOLayer.pdb
+E:\baitaplon\DeAnQLQN\BussLayer\obj\Debug\BussLayer.csprojResolveAssemblyReference.cache
+E:\baitaplon\DeAnQLQN\BussLayer\obj\Debug\BussLayer.dll
+E:\baitaplon\DeAnQLQN\BussLayer\obj\Debug\BussLayer.pdb
+E:\baitaplon\quán ăn\DeAnQLQN\BussLayer\bin\Debug\BussLayer.dll
+E:\baitaplon\quán ăn\DeAnQLQN\BussLayer\bin\Debug\BussLayer.pdb
+E:\baitaplon\quán ăn\DeAnQLQN\BussLayer\bin\Debug\DataLayer.dll
+E:\baitaplon\quán ăn\DeAnQLQN\BussLayer\bin\Debug\DTOLayer.dll
+E:\baitaplon\quán ăn\DeAnQLQN\BussLayer\bin\Debug\DataLayer.pdb
+E:\baitaplon\quán ăn\DeAnQLQN\BussLayer\bin\Debug\DTOLayer.pdb
+E:\baitaplon\quán ăn\DeAnQLQN\BussLayer\obj\Debug\BussLayer.csprojResolveAssemblyReference.cache
+E:\baitaplon\quán ăn\DeAnQLQN\BussLayer\obj\Debug\BussLayer.dll
+E:\baitaplon\quán ăn\DeAnQLQN\BussLayer\obj\Debug\BussLayer.pdb
